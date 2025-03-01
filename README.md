@@ -6,7 +6,7 @@ on two datasets on mice and study results.
 ## Resubmitting for evaluation
 I may have forgotten to run all cells before saving and pushing this notebook to Github so that may have accounted for discrepancies between the expected outputs
 
-## Each critique that resulted in point deductions
+# Each critique that resulted in point deductions
 # However, the creation of the summary statistics DataFrame is incomplete, resulting in a slight deduction. Ensure the final DataFrame is fully organized to present all calculated metrics cohesively.
 -- Summary Statistics should have been perfect or near flawless based on the output I was getting
 
